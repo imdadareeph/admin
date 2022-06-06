@@ -52,7 +52,7 @@ Highcharts.chart('container', {
         y: 100,
         floating: true,
         backgroundColor:
-            Highcharts.defaultOptions.legend.backgroundColor || // theme
+        Highcharts.theme || // theme
             'rgba(255,255,255,0.25)'
     },
     series: [{

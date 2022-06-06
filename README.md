@@ -20,3 +20,6 @@ admin ui springboot
  ![alt text](https://raw.githubusercontent.com/imdadareeph/admin/master/src/main/resources/screenshots/w2.png "preview2")
  ![alt text](https://raw.githubusercontent.com/imdadareeph/admin/master/src/main/resources/screenshots/m1.png "preview3")
  ![alt text](https://raw.githubusercontent.com/imdadareeph/admin/master/src/main/resources/screenshots/m2.png "preview4")
+ 
+ ![alt text](https://raw.githubusercontent.com/imdadareeph/admin/master/src/main/resources/screenshots/c1.png "preview5")
+ 
